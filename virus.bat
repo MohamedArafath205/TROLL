@@ -1,1 +1,0 @@
-curl ascii.live/rick
